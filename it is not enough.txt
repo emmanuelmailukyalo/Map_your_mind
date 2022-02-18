@@ -1,0 +1,12 @@
+This program will compute the sum of numbers entered by a user infinitely 
+until they enter negative number and prints the final result
+
+ -initialise a variable num and sum to 0
+ -input num
+
+ -repeat 
+	input num
+        add the value of num to sum
+  until the value of num is less than 0
+
+ -print sum

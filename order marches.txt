@@ -1,0 +1,29 @@
+This program is going to read three numbers and prints them in descending order
+
+ -initialize num1, num2 and num3 to 0
+ -Prompt user to enter num1
+ -Set num1 to first input value
+
+ -Prompt user to enter num2
+ -Set num2 to second input value
+
+ -Prompt user to enter num3
+ -Set num2 to third input value
+
+ -if num1 is greater than num2 and num2 is greater than num3
+	print num1,num2,num3
+
+ -elseif num3 is greater than num2 and num2 is greater than num1
+	print num2,num3,num1
+
+ -elseif num2 is greater than num1 and num1 is greater than num3
+	print num2,num1,num3
+
+ -elseif num2 is greater than num3 and num3 is greater than num1
+	print num2,num3,num1
+
+ -elseif num1 is greater than num3 and num3 is greater than num2
+	print num1,num3,num2
+
+ -else
+	print num3,num1,num2

@@ -1,0 +1,14 @@
+This program calculates the sum of squares of n numbers
+
+  -initialise variables sum, m and n to 0 
+
+  -print prompt "How many numbers would you like to input"
+  -read value n which represents number of inputs to expect
+
+  -for n number of times do:
+	input n
+	calculate square of number m
+	add the result to sum
+	sum = sum + (m * m)
+
+  -Print the value of sum
